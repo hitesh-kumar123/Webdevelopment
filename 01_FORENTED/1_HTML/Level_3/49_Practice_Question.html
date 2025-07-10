@@ -1,0 +1,58 @@
+                     
+ <!-- Qs_3).Recreate the following form using HTML-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/action">
+        <div>
+            <label for="Name"> Name :</label>
+            <input type="text" placeholder="Name" id="Name"/>
+        </div>
+        <br />
+        <div>
+            <!-- sex: -->
+            <labelfor="sex">Sex:</label>
+            <input type="radio"name="sex"id="male"value="male"/>
+            <labelfor="male">Male</label>
+            <!-- <input type="radio" id="male" name="male"  />
+            <lable for="male">male</lable> -->
+
+            <input type="radio"name="sex"id="female"value="female"/>
+            <label for="female">feMale</label>
+            <!-- <input type="radio" id="female" name="female"  />
+            <lable for="female">female</lable> -->
+        </div>
+        <br />
+        <div>
+            Country:
+            <select name="select an option " id="select an option">
+                <option value="select an option" selected>select an option</option>
+                <option value="India" selected>India</option>
+                <option value="Nepal">Nepal</option>
+                <option value="USA">USA</option>
+                <option value="Canada">Canada</option>
+            </select>
+        </div>
+        <br />
+        <div>
+            Message:
+             <label for="Message"></label>
+             <textarea id="Message" 
+             name="Message"
+             placeholder="write your Message"
+             rows="5" cols="50" >
+             </textarea>
+        </div>
+        <br />
+        <input type="checkbox" id="subscribe" name="subscribe"  />
+        <lable for="subscribe">subscribe</lable> 
+        <br />
+        <button>Sumibt</button>
+    </form>
+</body>
+</html> 
