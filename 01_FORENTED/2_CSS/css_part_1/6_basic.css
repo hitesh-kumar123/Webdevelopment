@@ -1,0 +1,14 @@
+                         /* Tex aling property */
+h1 {
+    text-align: right;
+    /* border: solid; */
+    width: 50%;
+}                         
+
+h3 {
+    text-align:start;
+}
+
+P {
+    text-align:end;
+}
