@@ -1,0 +1,24 @@
+                             /*  font weight and decorder */
+h1 {
+    text-align: center;
+    text-decoration:wavy red underline;
+}                        
+
+h3 {
+    text-align: start;
+    text-decoration:  pink line-through;
+}
+
+p {
+    text-align: justify;
+    font-weight: 400;
+}
+
+h2 {
+    font-weight: 800;
+    text-decoration:double blue overline;
+}
+
+a {
+    text-decoration: none;
+}
