@@ -1,0 +1,30 @@
+                          /* line height */
+h1 {
+    text-align: center;
+    text-decoration:wavy red underline;
+    letter-spacing: 30px;
+}                        
+
+h3 {
+    text-align: start;
+    text-decoration:  pink line-through;
+}
+
+p {
+    text-align: justify;
+    font-weight: 400;
+    line-height: 2.5;
+    font-size: 2px;
+}
+
+h2 {
+    font-weight: 800;
+    text-decoration:double blue overline;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* conguralation hitesh you can do it my boy never give up  */
