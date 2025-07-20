@@ -1,0 +1,12 @@
+                  /* Element selector */
+* {
+    font-family: courier New;
+}
+
+h3 {
+    color: purple;
+}
+
+h1,h3 {
+    color:#b92b27;
+}
