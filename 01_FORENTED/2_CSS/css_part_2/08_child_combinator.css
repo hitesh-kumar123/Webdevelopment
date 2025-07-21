@@ -1,0 +1,47 @@
+                               /* child combinator */
+* {
+    font-family: courier New;
+}
+
+h1,h3 {
+    color:#b92b27;
+}
+
+#login {
+    background-color: white;
+}
+
+#signup {
+    background-color: #b92b27;
+    color: white;
+}
+
+.upvote {
+    background-color: green;
+    color: antiquewhite;
+}
+
+.post a {
+    color: purple;
+    background-color: yellow;
+}
+
+nav a {
+    color:orchid;
+}
+
+p + h3 {
+    text-decoration: underline;
+}
+
+.upvote + button {
+    background-color: cornflowerblue;
+
+    color: darkblue;
+}
+
+div > input {
+    background-color:darksalmon ;
+}
+
+/* but ye descendant selctors ki tarah use nhi ho ta he this is 1 part in under that's called disadvantage ok */
