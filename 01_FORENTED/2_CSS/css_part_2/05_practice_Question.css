@@ -1,0 +1,21 @@
+                              /* practice questions */
+* {
+     font-family:courier new;
+}
+
+h1 {
+     color: #1b74e4;
+}
+
+#searchbtn {
+     background-color: black;
+     color: white;
+}
+
+/* #login,#Register {
+     background-color: aqua;
+} */
+
+.userbtn {
+     background-color: aqua;
+}
