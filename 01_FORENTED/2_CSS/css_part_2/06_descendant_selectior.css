@@ -1,0 +1,31 @@
+                         /* descendant selectior */
+* {
+    font-family: courier New;
+}
+
+h1,h3 {
+    color:#b92b27;
+}
+
+#login {
+    background-color: white;
+}
+
+#signup {
+    background-color: #b92b27;
+    color: white;
+}
+
+.upvote {
+    background-color: green;
+    color: antiquewhite;
+}
+
+.post a {
+    color: purple;
+    background-color: yellow;
+}
+
+nav ul li a {
+    color:orchid;
+}
