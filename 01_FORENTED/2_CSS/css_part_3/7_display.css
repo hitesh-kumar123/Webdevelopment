@@ -1,0 +1,27 @@
+
+/* h2 {
+    display: inline;
+    background-color: aquamarine;
+}
+
+span {
+    display: block;
+    background-color: orchid;
+} */
+
+span {
+    /* background-color: lime; */
+    border: 2px solid darkorange;
+    height: 100px;
+    width: 200px;
+    padding: 50px;
+    margin: 90px;
+}
+
+div {
+    border: 2px solid darkorange;
+    height: 100px;
+    width: 200px;
+    padding: 50px;
+    margin: 90px;
+}
