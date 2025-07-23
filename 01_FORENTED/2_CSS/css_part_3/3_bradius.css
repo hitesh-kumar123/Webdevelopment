@@ -1,0 +1,18 @@
+                                    /* border radius */
+div {
+    height: 200px;
+    width: 500px;
+    background-color: pink;
+    border:5px solid black;
+    /* border-radius: 50%; */
+    border-top-right-radius: 50px;
+}
+
+h1 {
+    /* border-width: 2px;
+    border-style: dashed;
+    border-color: magenta; */
+    border: 2px dashed lawngreen;
+    /* border-radius: 50%; */
+
+}
