@@ -1,0 +1,27 @@
+                                /* pedding property */
+div {
+    height: 200px;
+    width: 500px;
+    background-color: pink;
+    border:5px solid black;
+    /* border-radius: 50%; */
+    border-radius: 10px;
+    padding-top: 40px;
+}
+
+h1 {
+    /* border-width: 2px;
+    border-style: dashed;
+    border-color: magenta; */
+    border: 2px dashed lawngreen;
+    /* border-radius: 50%; */
+}
+
+button {
+    border: 2px solid black;
+    /* border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px; */
+    padding: 0px 30px 0px 30px;
+    background-color: yellow;
+}
