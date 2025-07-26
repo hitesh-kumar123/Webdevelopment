@@ -1,0 +1,16 @@
+                                /* background image */
+div {
+    height: 500px;
+    width: 720px;
+    text-align: center;
+    background-color: #7aa874;
+    margin: 10px auto;
+    /* background-image: url("myphoto.jpg") */
+    background-image: url("lord\ shiva\ is\ our\ soul!!!.jpg");
+    /* background-size: contain; */
+    background-size: auto;
+    color: rgb(240, 249, 255);
+
+    
+
+}
