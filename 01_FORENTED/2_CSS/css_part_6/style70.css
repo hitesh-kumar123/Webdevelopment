@@ -1,0 +1,39 @@
+.box {
+    height:100px;
+    width:300px;
+    background-color: pink;
+    border-color: red;
+    /* animation-name:widthAnimate; */
+    /* animation-duration:2s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: 3;
+    animation-direction:normal; */
+    animation: widthAnimate 3s ease-in 0s infinite normal;
+}
+@keyframes widthAnimate{
+    from {
+        width: 10px;
+        background-color: green;
+    }
+    to{
+        width: 400px;
+        background-color: blue;
+        border-radius: 15px;
+    }
+}
+
+@keyframes myname {
+    from{
+    font-size: 20px;
+    }
+    to{
+        font-size: 40px;
+    }
+}
+@keyframes colorAnimate {
+    from {
+    }
+    to{
+    }
+}
